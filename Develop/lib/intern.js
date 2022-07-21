@@ -10,7 +10,7 @@ class ntern extends employee {
     return this.school;
   }
 
-  getRole() {
+  getTitle() {
     return "intern";
   }
 }
