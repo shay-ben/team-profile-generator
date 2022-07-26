@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+ 
+}
+
+.card {
+  margin: 1rem;
+}
+
+.card-header {
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
