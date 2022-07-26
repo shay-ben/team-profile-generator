@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/shay-ben/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/shay-ben/team-profile-generator#readme"
+  "homepage": "https://github.com/shay-ben/team-profile-generator#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
 }
